@@ -1,2 +1,6 @@
-Saya sangat tertarik belajar pemprograman dasar Javascript di Khan academy,
-cara mengajarnya menyenangkan dan menarik.
+# Akhner Frisca
+## Version Control
+github
+
+## What is Software Engineer
+Front End Enginer
